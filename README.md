@@ -1,4 +1,4 @@
-<h2 align="left">Hi i'm Achmad Ali Akbar </h2>
+<h2 align="left">Hi i'm Rich Marpaung </h2>
 
 ###
 
@@ -22,10 +22,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/ahmadaliakbar203/" target="_blank">
+  <a href="https://www.instagram.com/rich_marpaung/?hl=id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="barcodew@outlook.com" target="_blank">
+  <a href="richrona2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
