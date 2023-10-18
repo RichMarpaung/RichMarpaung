@@ -11,15 +11,7 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/115502424?s=96&v=4"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/rich_marpaung/?hl=id" target="_blank">
